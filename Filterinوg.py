@@ -40,8 +40,8 @@ x = """               .. ... ....                                               
 Hello My Friend Im Mir Reza I am filtering and I want to give you, my friends, a filtering code. I hope you use it correctly. Thank you.
 GOD FIltering Rubika >~ghoghnos black>_
                       
-                     new~acont~rubika:@mi_aryan_megatrn
-                       id tel:@Mr_aryan_a_h_a
+                     
+                      
 """
 for c in x:
     sys.stdout.write(c)

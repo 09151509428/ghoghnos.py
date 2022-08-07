@@ -146,7 +146,7 @@ time.sleep(1)
 print(f"{red} ")
 time.sleep(0.2)
 print (""" !!! Update Script !!!
-rm -rf filtring-rubika-megatrn
+rm -rf 09151509428/ghoghnos
 git clone https://github.com/09151509428/ghoghnos.py
 cd 09151509428/ghoghnos
 chmod 777 *

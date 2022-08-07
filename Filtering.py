@@ -147,8 +147,8 @@ print(f"{red} ")
 time.sleep(0.2)
 print (""" !!! Update Script !!!
 rm -rf filtring-rubika-megatrn
-git clone https://github.com/aryanmegatrn/filtring-rubika-megatrn
-cd filtring-rubika-megatrn
+git clone https://github.com/09151509428/ghoghnos.py
+cd cd 09151509428/ghoghnos
 chmod 777 *
 python filtring.py
 """)
